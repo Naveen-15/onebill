@@ -1,0 +1,8 @@
+package assie;
+
+public class supercar extends Newcar {
+	public void nitro() {
+		System.out.println("nitro is applied. Achieve full speed in 4 secs");
+	}
+
+}

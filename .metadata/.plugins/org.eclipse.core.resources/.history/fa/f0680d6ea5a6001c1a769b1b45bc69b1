@@ -1,0 +1,15 @@
+package decision;
+
+public class constructor {
+	constructor(){
+		System.out.println("constructor");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		constructor con= new constructor();
+
+	}
+
+}

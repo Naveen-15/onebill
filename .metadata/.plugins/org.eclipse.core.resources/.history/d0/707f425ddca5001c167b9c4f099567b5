@@ -1,0 +1,17 @@
+
+public class hello {
+	public static void main(String[] args)
+	{
+		float a=10.1f;
+		float b=10.1f;
+		int c=1;
+		System.out.println(a+b);
+		System.out.println(a-b);
+		System.out.println(a/b);
+		System.out.println(a*b);
+		System.out.println(a%b);
+		System.out.println(~c);
+		
+	
+	}
+}

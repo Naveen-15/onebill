@@ -1,0 +1,13 @@
+package decision;
+
+public class parent {
+	
+		int x;
+		int y;
+		
+	public parent(int p,int r) {
+		x=x;
+		y=y;
+	}
+
+}

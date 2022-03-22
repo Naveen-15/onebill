@@ -1,0 +1,12 @@
+package overriding;
+
+public class Test1 {
+public void message() {
+	System.out.println("Received by user");
+}
+public int add (int x,int y) {
+	super(x,y);
+	System.out.println(x+y+10);
+	return x+y+10;
+}
+}

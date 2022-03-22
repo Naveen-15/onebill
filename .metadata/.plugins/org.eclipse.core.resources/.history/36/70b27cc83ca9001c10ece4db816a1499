@@ -1,0 +1,12 @@
+package assie;
+
+public class drivecar {
+
+	public static void main(String[] args) {
+		supercar s=new supercar();
+		s.assign("audi", 25, 200);
+		System.out.println(s.milage);
+
+	}
+
+}

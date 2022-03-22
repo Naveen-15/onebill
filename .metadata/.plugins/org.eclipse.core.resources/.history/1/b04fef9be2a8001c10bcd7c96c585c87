@@ -1,0 +1,14 @@
+package decision;
+
+public class smartphone extends phone {
+int price;
+String brand;
+int ram;
+int camera;
+public void selfi(String name) {
+	System.out.println("selfie with"+ name);
+}
+public void play(String gamename) {
+	System.out.println("playing"+ gamename);
+}
+}

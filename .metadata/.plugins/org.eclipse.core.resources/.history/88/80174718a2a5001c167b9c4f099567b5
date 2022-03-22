@@ -1,0 +1,12 @@
+package heelloo;
+import java.util.*;
+
+public class Hello {
+	public static void main(String args[]) {
+		System.out.println("Fuck You");
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		System.out.println(a);
+	}
+	
+}

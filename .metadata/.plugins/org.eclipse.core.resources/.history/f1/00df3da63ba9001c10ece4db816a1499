@@ -1,0 +1,20 @@
+package assie;
+
+public class Newcar extends Oldcar{
+	
+public Newcar(String m, int t, int mi, int ts) {
+	super(m, t, mi, ts);
+		// TODO Auto-generated constructor stub
+	}
+boolean powersteering;
+public void radio() {
+	System.out.println("play music");
+}
+public void fuelindicator() {
+	System.out.println("fuel is low");
+}
+public void abs() {
+	System.out.println("abs is on");
+}
+
+}

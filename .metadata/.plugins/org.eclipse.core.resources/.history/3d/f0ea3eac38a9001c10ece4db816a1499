@@ -1,0 +1,13 @@
+package assie;
+
+public class Newcar extends Oldcar{
+	
+boolean powersteering;
+public void radio() {
+	System.out.println("play music");
+}
+public void abs() {
+	System.out.println("abs is on");
+}
+
+}

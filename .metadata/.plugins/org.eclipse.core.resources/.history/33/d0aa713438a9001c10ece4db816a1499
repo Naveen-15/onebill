@@ -1,0 +1,16 @@
+package assie;
+
+public class Oldcar {
+	String model;
+	int tankcapacity;
+	int milage;
+	int topspeed;
+	public  void drive() {
+		System.out.println("car is runing");
+	}
+	public void radio() {
+		System.out.println("play music");
+	}
+	
+
+}

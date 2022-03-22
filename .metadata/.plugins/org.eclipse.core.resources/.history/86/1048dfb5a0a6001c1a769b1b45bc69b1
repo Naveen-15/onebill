@@ -1,0 +1,16 @@
+package decision;
+
+public class method {
+static int mul(int x,int y=1){
+	int multi=x*y;
+	return multi;
+	
+}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int ans=method.mul(2,2);
+		System.out.println(ans);
+
+	}
+
+}

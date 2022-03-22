@@ -1,0 +1,13 @@
+package assie;
+
+public class supercar extends Newcar {
+	public supercar(String m, int t, int mi, int ts) {
+		super(m, t, mi, ts);
+		// TODO Auto-generated constructor stub
+	}
+
+	public void nitro() {
+		System.out.println("nitro is applied. Achieve full speed in 4 secs");
+	}
+
+}

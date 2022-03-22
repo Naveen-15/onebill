@@ -1,0 +1,14 @@
+package decision;
+
+public class store {
+	public static void main(String [] args) {
+	phone ph = new phone();
+	ph.price=2000;
+	ph.ram=4;
+	ph.brand="nokia";
+	
+	ph.call("naveen");
+	ph.radio(" minnalae");
+	ph.message("hii");
+	}
+}

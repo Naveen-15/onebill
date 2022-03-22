@@ -1,0 +1,10 @@
+package decision;
+
+public class store1 {
+	public void main() {
+		phone phone = new phone(12000,4);
+		
+		
+	}
+
+}

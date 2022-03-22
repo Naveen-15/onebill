@@ -1,0 +1,11 @@
+package assie;
+
+public class drivecar {
+
+	public static void main(String[] args) {
+		supercar s=new supercar("chev",25,80);
+		System.out.println(s.milage);
+
+	}
+
+}

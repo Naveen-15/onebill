@@ -1,0 +1,19 @@
+package assie;
+
+public class Oldcar {
+	String model;
+	int tankcapacity;
+	int milage;
+	int topspeed;
+	public  void start() {
+		System.out.println("car is started");
+	}
+	public void stop() {
+		System.out.println("car is stoped");
+	}
+	public void gear() {
+		System.out.println("gear is changed");
+	}
+	
+
+}

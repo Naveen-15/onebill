@@ -1,0 +1,7 @@
+package overriding;
+
+public class Audi {
+	public void brake() {
+		System.out.println("ne brake is installed");
+	}
+}
